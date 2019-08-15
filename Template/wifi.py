@@ -3,7 +3,12 @@ import os
 import network
 from machine import Pin
 
+# crate this file add upload it to the ESP
+# content shall be one linw with
+# the_ssid;the_password
 NETWORK_PROFILES = 'wifi.dat'
+
+# pin of embedded LED on board to display status
 LED_PIN = 16
 
 def _read_profiles():
@@ -48,5 +53,3 @@ def connect_wifi():
         time.sleep(0.2)
 
     return station.isconnected()
-
-
