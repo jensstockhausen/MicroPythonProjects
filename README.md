@@ -15,16 +15,16 @@ A template project setting up wifi and mqtt connection.
 
 ## Links
 
-[MicroPython](http://micropython.org/): python for ESP boards.
-[Thonny](https://thonny.org/): IDE with MicroPython support. (try the 3.2.0 beta)
+* [MicroPython](http://micropython.org/): python for ESP boards.
+* [Thonny](https://thonny.org/): IDE with MicroPython support. (try the 3.2.0 beta)
 
 Python libraries/snippets used:
-[umqtt.simple](https://github.com/micropython/micropython-lib/tree/master/umqtt.simple): simple MQTT client 
-[bme280_float](https://github.com/robert-hh/BME280/blob/master/bme280_float.py): reading the temperature/pressure sensonr BME280.
+* [umqtt.simple](https://github.com/micropython/micropython-lib/tree/master/umqtt.simple): simple MQTT client 
+* [bme280_float](https://github.com/robert-hh/BME280/blob/master/bme280_float.py): reading the temperature/pressure sensonr BME280.
 
 additional python packages used:
-[esptool](https://github.com/espressif/esptool): tool to flash the firmware.
-[mpfshell](https://github.com/wendlers/mpfshell): shell based file explorer to automate uploads of scripts. 
+* [esptool](https://github.com/espressif/esptool): tool to flash the firmware.
+* [mpfshell](https://github.com/wendlers/mpfshell): shell based file explorer to automate uploads of scripts. 
 
 
 
