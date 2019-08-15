@@ -20,7 +20,7 @@ A template project setting up wifi and mqtt connection.
 
 Python libraries/snippets used:
 * [umqtt.simple](https://github.com/micropython/micropython-lib/tree/master/umqtt.simple): simple MQTT client 
-* [bme280_float](https://github.com/robert-hh/BME280/blob/master/bme280_float.py): reading the temperature/pressure sensonr BME280.
+* [bme280_float](https://github.com/robert-hh/BME280/blob/master/bme280_float.py): reading the temperature/pressure sensor BME280.
 
 additional python packages used:
 * [esptool](https://github.com/espressif/esptool): tool to flash the firmware.
