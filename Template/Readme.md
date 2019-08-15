@@ -2,7 +2,7 @@
 
 ## Files
 
-* flash.sh: uses mpfshell to upload all files to the ESP.
+* flash.sh: uses mpfshell to upload all files to the ESP (including wifi.dat).
 * boot.py: plain boot using wifi.py to connect to the Wifi.
 * main.py: connects to MQTT brocker, sets up callback for incoming messages, reads sensor and publishes message.
 
