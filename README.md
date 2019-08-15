@@ -19,7 +19,8 @@ A template project setting up wifi and mqtt connection.
 [Thonny](https://thonny.org/): IDE with MicroPython support. (try the 3.2.0 beta)
 
 Python libraries/snippets used:
-[MQTTClient](https://github.com/RuiSantosdotme/ESP-MicroPython/tree/master/code/MQTT): Simple MQTT client 
+[umqtt.simple](https://github.com/micropython/micropython-lib/tree/master/umqtt.simple): simple MQTT client 
+[bme280_float](https://github.com/robert-hh/BME280/blob/master/bme280_float.py): reading the temperature/pressure sensonr BME280.
 
 additional python packages used:
 [esptool](https://github.com/espressif/esptool): tool to flash the firmware.
