@@ -26,7 +26,7 @@ additional python packages used:
 ## Expanding
 
 ### ESP32
-Need asecond UART? (e.g. for GPS) Think about an ESP32. 
+Need a second UART? (e.g. for GPS) Think about an ESP32. 
 Comes with DAC/ADC and capacitive touch sensors. 
 
 ### Visual Sudio Code & PlatformIO
