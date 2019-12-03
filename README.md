@@ -10,9 +10,6 @@ Please find below a list us useful links.
 ### Template
 A template project setting up wifi and mqtt connection.
 
-
-
-
 ## Links
 
 * [MicroPython](http://micropython.org/): python for ESP boards.
@@ -25,6 +22,21 @@ Python libraries/snippets used:
 additional python packages used:
 * [esptool](https://github.com/espressif/esptool): tool to flash the firmware.
 * [mpfshell](https://github.com/wendlers/mpfshell): shell based file explorer to automate uploads of scripts. 
+
+## Expanding
+
+### ESP32
+Need asecond UART? (e.g. for GPS) Think about an ESP32. 
+Comes with DAC/ADC and capacitive touch sensors. 
+
+### Visual Sudio Code & PlatformIO
+More control and more frameworks.
+BUT: C++ ;-)
+
+Take [Visual Studio Code](https://code.visualstudio.com/) and install the [PlatformIO](https://platformio.org/) plugin.
+It installs all required tool chains and manages libraries.
+
+
 
 
 
