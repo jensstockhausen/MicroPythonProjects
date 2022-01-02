@@ -10,6 +10,10 @@ Please find below a list us useful links.
 ### Template
 A template project setting up wifi and mqtt connection.
 
+### Tutorial
+Walktrough a small project with an ESP8266.
+
+
 ## Links
 
 * [MicroPython](http://micropython.org/): python for ESP boards.
@@ -22,6 +26,19 @@ Python libraries/snippets used:
 additional python packages used:
 * [esptool](https://github.com/espressif/esptool): tool to flash the firmware.
 * [mpfshell](https://github.com/wendlers/mpfshell): shell based file explorer to automate uploads of scripts. 
+
+
+**Note**
+
+As there quite a few python packages to be installed, using a virtual environment is not a bad idea.
+
+```
+cd your_project_folder
+python3 -m venv ./venv
+source ./venv/bin/activate
+```
+Do that before your're installing packages with pip3
+
 
 ## Expanding
 
