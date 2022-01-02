@@ -1,8 +1,11 @@
 # Tutorial
 
-Short walktrough to get an small ESP8266 project up and running.
+Short walkthrough to get an small ESP8266 project up and running.
 
-Create one project and copy the files from the steps or adjust your files
+Use the project folder as your sandbox and work on these files based 
+on the examples in the steps folder.
+
+Run the `setup_venv.sh` to setup your virtual env for python.
 
 
 ## Step 1
