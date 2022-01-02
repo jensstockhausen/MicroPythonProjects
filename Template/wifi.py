@@ -3,8 +3,8 @@ import os
 import network
 from machine import Pin
 
-# crate this file add upload it to the ESP
-# content shall be one linw with
+# create this file add upload it to the ESP
+# content shall be one line with
 # the_ssid;the_password
 NETWORK_PROFILES = 'wifi.dat'
 
