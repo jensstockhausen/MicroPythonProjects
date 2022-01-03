@@ -5,8 +5,9 @@ Short walkthrough to get an small ESP8266 project up and running.
 Use the project folder as your sandbox and work on these files based 
 on the examples in the steps folder.
 
-Run the `setup_venv.sh` to setup your virtual env for python.
+Run the `setup_venv.sh` to setup your virtual env for python for interacting with the ESP via commandline (esptool, etc.)
 
+For development I'd suggest the Thonny IDE.
 
 ## Step 1
 Attach a BME280 sensor and get the readings for 
