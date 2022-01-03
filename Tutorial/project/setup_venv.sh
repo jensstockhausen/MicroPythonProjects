@@ -13,3 +13,4 @@ touch wifi.dat
 echo ""
 echo ""
 echo "activate with: source ./.venv/bin/activate"
+echo ""
