@@ -2,7 +2,7 @@
 
 
 This is a collection of MicroPython projects mainly used for home automation based on ESP8222 boards using MQTT and node-red.
-Please find below a list us useful links.
+Please find below a list of useful links.
 
 
 ## Projects
